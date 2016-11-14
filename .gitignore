@@ -1,0 +1,5 @@
+cookies
+.env
+*.jar
+screenshot.png
+node_modules
